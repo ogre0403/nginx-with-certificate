@@ -1,0 +1,4 @@
+*.crt
+*.key
+nginx.conf
+.DS_Store
